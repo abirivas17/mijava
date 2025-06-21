@@ -6,12 +6,12 @@ public class HolaMundo {
         
         int a = 10;
         int b = 3;
-        int mult = a * b;
+        int div = a / b;
 
 
         System.out.println(" Hola " + nombre+ " !");
 
-        System.out.println(" La multiplicacion de " + a + " + " + b + " es: " + mult);
+        System.out.println(" La division de " + a + " / " + b + " es: " + div);
 
 
 
